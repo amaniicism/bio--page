@@ -1,0 +1,82 @@
+header{
+    display: flex;
+    flex-direction: column;
+    align-items: center;
+    text-align: center;
+    padding: 10px;
+    background-color: #1F2937;
+    color: #c0c0c0;
+    border-radius: 20px;
+    font-family: 'Segoe UI', Tahoma, Geneva, Verdana, sans-serif;
+    P{
+        color: #c0c0c0;
+    }
+}
+
+body{
+    background-color:  rgba(146, 160, 149, 0.753);
+    font-family: 'Segoe UI', Tahoma, Geneva, Verdana, sans-serif;
+     align-items: center;
+    text-align: center;
+   
+   }
+main{
+    max-width: 640px;
+    margin: 0px auto;
+    padding: 10px;
+}
+
+h2{
+    color: black;
+    margin: 20px;
+    align-items: center;
+    text-align: center;
+}
+p{
+    color: black;
+    margin: 10px 0px;
+     align-items: center;
+    text-align: center;
+}
+
+
+h2:hover{
+    color: grey;
+}
+
+img{
+    display: block;
+    width: 100px;
+    height: 100px;
+    border-radius: 70px;
+      text-align: center;
+}
+
+
+.myDiv{
+    border: 1px solid black;
+    padding: 10px;
+    background-color: #1F2937;
+    color: #c0c0c0;
+    border-radius: 999px;
+    font-size: 1rem;
+    font-family: 'Segoe UI', Tahoma, Geneva, Verdana, sans-serif;
+
+}
+
+.Skills{
+    display: flex;
+    flex-wrap: wrap;
+    gap: 20px;
+    list-style: none;
+}
+
+form{
+     max-width: 640px;
+    margin: 0px auto;
+    padding: 10px;
+    border: 1px solid black;
+    border-radius: 20px;
+    
+}
+
